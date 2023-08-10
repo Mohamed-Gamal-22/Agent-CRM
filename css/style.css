@@ -79,3 +79,7 @@ form i {
   right: 10px;
 }
 /* end links */
+
+footer img {
+  max-width: 50%;
+}
