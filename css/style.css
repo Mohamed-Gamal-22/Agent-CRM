@@ -1,5 +1,9 @@
 /* first top image */
 
+body {
+  overflow-x: hidden;
+}
+
 .first-image img {
   width: 30%;
 }
